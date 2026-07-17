@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=1CFF09&background=FF19DB00&center=true&vCenter=true&multiline=true&width=472&lines=Whatever+we+build%2C+we+have+to+maintain.)](https://git.io/typing-svg)
 
-# About 
-Senior Analyst - Enforcement & Tooling
+# :seal: About :seal:
+Senior Analyst - IP Enforcement & Tooling
 <br><br>Working through a combination of building tooling. Interested in agentic frameworks, web scraping, and game development. 
 
 
